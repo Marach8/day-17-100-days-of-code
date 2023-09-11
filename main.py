@@ -14,7 +14,7 @@ while True:
   print()
   
   if player_1 == 'R' and player_2 == 'P':
-    print("Hey! player_1's Rock Smashed Player_2's Paper")
+    print("Hey! player_1's Rock Smashed Player_2's Paper.")
     x += 1
     
   elif player_1 == 'R' and player_2 == 'S':
